@@ -1,7 +1,9 @@
 <div align="center">
 
   <h1> Wallpaper Bible Verse Daily Changer</h1>
-  <img src="https://madewithlove.now.sh/eg?heart=true" alt="Made with love in Egypt">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Made with love in Egypt">
+  <img src="https://img.shields.io/badge/Made_With_Love-B32629?style=for-the-badge&logo=undertale&logoColor=white" alt="Made with love in Egypt">
+  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Made with love in Egypt">
   <h3> Generates a customized wallpaper image every day with a bible verse from dailyverses.net written over a background image of your choice. The wallpaper is automatically set as your desktop background at a scheduled time.
 </h3>
 </div>
@@ -34,8 +36,7 @@
 
   
 ## :space_invader: Built With
-- ![python]
-- GUI: ![qt]
+- Pyqt (for GUI)
 - PIL (for editing and writing on the image)
 - requests (for downloading the verse page)
 - BeautifulSoup (for web scraping the verse)
