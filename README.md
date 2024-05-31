@@ -4,11 +4,16 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Made with love in Egypt">
   <img src="https://img.shields.io/badge/Made_With_Love-B32629?style=for-the-badge&logo=undertale&logoColor=white" alt="Made with love in Egypt">
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="Made with love in Egypt">
-  <h3> Generates a customized wallpaper image every day with a bible verse from dailyverses.net written over a background image of your choice. The wallpaper is automatically set as your desktop background at a scheduled time.
+  <h3> Daily customised wallpaper setter with an embedded bible verse to start an amazing day!
 </h3>
+
+  <img src="./screen_shots/pythonqt change wallpaper daily.png" alt="logo" />
+
+
 </div>
 
 ## :star2: About The Project
+Generates a customized wallpaper image every day with a bible verse from dailyverses.net written over a background image of your choice. The wallpaper is automatically set as your desktop background at a scheduled time.
 **Features:** 
 - Browse and select a custom background image
 - Configure font settings, size, width, color and verse position  
